@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Abonati] (
+    [Index]   VARCHAR (50)  NOT NULL,
+    [Nume]    NVARCHAR (50) NULL,
+    [Prenume] NVARCHAR (50) NULL,
+    [Telefon] VARCHAR (50)  NULL,
+    [Retea]   NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Index] ASC)
+);

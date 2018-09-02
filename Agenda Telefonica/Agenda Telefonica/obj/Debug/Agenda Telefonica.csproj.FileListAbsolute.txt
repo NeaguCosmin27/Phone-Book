@@ -1,0 +1,14 @@
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csprojResolveAssemblyReference.cache
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Properties.Resources.resources
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.GenerateResource.Cache
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Iesire.resources
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.frmSearchWindow.resources
+C:\Users\Cosmin\Desktop\C#\proiecte\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.frmMainWindow.resources
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb

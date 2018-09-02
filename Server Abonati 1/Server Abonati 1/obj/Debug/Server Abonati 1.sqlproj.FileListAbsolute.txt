@@ -1,0 +1,10 @@
+C:\Users\Cosmin\Desktop\C#\proiecte\Server Abonati 1\Server Abonati 1\bin\Debug\Server Abonati 1.dacpac
+C:\Users\Cosmin\Desktop\C#\proiecte\Server Abonati 1\Server Abonati 1\bin\Debug\Server_Abonati_1.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\Server Abonati 1\Server Abonati 1\bin\Debug\Server_Abonati_1.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\Server Abonati 1\Server Abonati 1\obj\Debug\Server_Abonati_1.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\Server Abonati 1\Server Abonati 1\obj\Debug\Server_Abonati_1.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Server Abonati 1\Server Abonati 1\bin\Debug\Server Abonati 1.dacpac
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Server Abonati 1\Server Abonati 1\bin\Debug\Server_Abonati_1.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Server Abonati 1\Server Abonati 1\bin\Debug\Server_Abonati_1.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Server Abonati 1\Server Abonati 1\obj\Debug\Server_Abonati_1.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\C#_Proiect_Final_Cosmin_Neagu\Server Abonati 1\Server Abonati 1\obj\Debug\Server_Abonati_1.pdb
